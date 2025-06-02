@@ -1,0 +1,6 @@
+2025-05-31 16:52:14,170 [INFO] Request: GET /health — from 127.0.0.1
+2025-05-31 16:52:14,171 [INFO] Health check accessed
+2025-05-31 16:52:21,955 [INFO] Request: GET /processes — from 127.0.0.1
+2025-05-31 17:01:19,830 [INFO] Request: GET /health — from 127.0.0.1
+2025-05-31 17:01:19,831 [INFO] Health check accessed
+2025-05-31 17:01:50,047 [INFO] Request: GET /.well-known/appspecific/com.chrome.devtools.json — from 127.0.0.1

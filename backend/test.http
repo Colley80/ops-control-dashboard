@@ -1,0 +1,41 @@
+### Health check
+GET http://127.0.0.1:5000/health
+
+
+### Get all processes
+GET http://127.0.0.1:5000/processes
+
+
+### Add new process
+POST http://127.0.0.1:5000/processes
+Content-Type: application/json
+
+{
+  "name": "Example Process",
+  "priority": "High",
+  "timestamp": "2025-05-31T12:00:00Z"
+}
+
+
+### Delete process by ID
+DELETE http://127.0.0.1:5000/processes/1
+### GET processes with filter
+GET http://127.0.0.1:5000/processes?priority=High
+
+### GET processes with sort
+GET http://127.0.0.1:5000/processes?sort=timestamp
+### Test rate limiting
+GET http://127.0.0.1:5000/processes
+### GET Metrics
+GET http://127.0.0.1:5000/metrics
+### GET Config
+GET http://127.0.0.1:5000/config
+### GET Health
+GET http://127.0.0.1:5000/health
+### GET config
+GET http://127.0.0.1:5000/config
+Accept: application/json
+### GET config (with auth)
+GET http://127.0.0.1:5000/config
+Authorization: Basic YWRtaW46c2VjcmV0MTIz
+Accept: application/json
