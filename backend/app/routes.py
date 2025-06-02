@@ -1,66 +1,53 @@
 # app/routes.py
 
 from flask import Blueprint, jsonify, request
-from flask_limiter import Limiter
-from flask_limiter.util import get_remote_address
+from app.metrics import process_count
 
-bp = Blueprint("processes", __name__)
+bp = Blueprint('processes', __name__)
 
-# In-memory "database" for now
-processes = []
+# In-memory "database"
+process_db = []
+process_id_counter = 1
 
-# Initialize limiter
-limiter = Limiter(key_func=get_remote_address)
-
-# GET with pagination and sorting
-@bp.route("/processes", methods=["GET"])
-@limiter.limit("10 per minute")
+@bp.route('/processes', methods=['GET'])
 def get_processes():
-    sort_by = request.args.get("sort_by", "id")
-    page = int(request.args.get("page", 1))
-    per_page = int(request.args.get("per_page", 5))
+    global process_db
+    page = int(request.args.get('page', 1))
+    per_page = int(request.args.get('per_page', 5))
+    sort_by = request.args.get('sort_by', 'id')
 
-    sorted_processes = sorted(
-        processes,
-        key=lambda x: x.get(sort_by, ""),
-    )
-
+    sorted_processes = sorted(process_db, key=lambda x: x.get(sort_by, ''))
     start = (page - 1) * per_page
     end = start + per_page
-    paged = sorted_processes[start:end]
+    paginated = sorted_processes[start:end]
 
     return jsonify({
-        "page": page,
-        "per_page": per_page,
-        "total": len(processes),
-        "processes": paged
+        'page': page,
+        'per_page': per_page,
+        'total': len(process_db),
+        'processes': paginated
     }), 200
 
-# POST
-@bp.route("/processes", methods=["POST"])
-@limiter.limit("5 per minute")
+@bp.route('/processes', methods=['POST'])
 def add_process():
-    data = request.get_json()
-
-    if not data or "name" not in data:
-        return {"error": "Missing process name"}, 400
-
+    global process_db, process_id_counter
+    data = request.json
     new_process = {
-        "id": len(processes) + 1,
-        "name": data["name"],
-        "priority": data.get("priority", "Normal"),
-        "timestamp": data.get("timestamp", "N/A")
+        'id': process_id_counter,
+        'name': data.get('name', ''),
+        'priority': data.get('priority', 'Medium'),
+        'timestamp': data.get('timestamp', '')
     }
-
-    processes.append(new_process)
+    process_db.append(new_process)
+    process_id_counter += 1
+    process_count.inc()
 
     return jsonify(new_process), 201
 
-# DELETE
-@bp.route("/processes/<int:process_id>", methods=["DELETE"])
-@limiter.limit("5 per minute")
+@bp.route('/processes/<int:process_id>', methods=['DELETE'])
 def delete_process(process_id):
-    global processes
-    processes = [p for p in processes if p["id"] != process_id]
-    return jsonify({"message": f"Process {process_id} deleted"}), 200
+    global process_db
+    process_db = [p for p in process_db if p['id'] != process_id]
+    process_count.dec()
 
+    return jsonify({'message': 'Process deleted'}), 200
