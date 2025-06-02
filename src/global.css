@@ -1,0 +1,74 @@
+/* frontend/src/global.css */
+
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* GLOBAL FONT */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* HEADERS */
+h1, h2, h3 {
+  margin-bottom: 1rem;
+  color: #343a40;
+}
+
+/* FORM */
+form {
+  margin-bottom: 2rem;
+}
+
+form div {
+  margin-bottom: 1rem;
+}
+
+input[type="text"],
+input[type="datetime-local"],
+select {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3730a3;
+}
+
+/* TABLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+table, th, td {
+  border: 1px solid #dee2e6;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+}
+
+th {
+  background-color: #f1f3f5;
+}
