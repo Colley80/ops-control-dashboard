@@ -4,3 +4,199 @@
 2025-05-31 17:01:19,830 [INFO] Request: GET /health — from 127.0.0.1
 2025-05-31 17:01:19,831 [INFO] Health check accessed
 2025-05-31 17:01:50,047 [INFO] Request: GET /.well-known/appspecific/com.chrome.devtools.json — from 127.0.0.1
+2025-06-02 17:27:58 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 17:27:58 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 17:27:58 INFO:  * Restarting with stat
+2025-06-02 17:27:59 WARNING:  * Debugger is active!
+2025-06-02 17:27:59 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 17:28:04 INFO: Request: GET /health — from 127.0.0.1
+2025-06-02 17:28:04 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:28:04 INFO: Response: 404 GET /health
+2025-06-02 17:28:04 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:04] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-06-02 17:28:04 INFO: Request: GET /favicon.ico — from 127.0.0.1
+2025-06-02 17:28:04 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:28:04 INFO: Response: 404 GET /favicon.ico
+2025-06-02 17:28:04 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-02 17:28:08 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:28:08 INFO: Response: 200 GET /processes
+2025-06-02 17:28:08 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:08] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:28:08 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:28:08 INFO: Response: 200 GET /processes
+2025-06-02 17:28:08 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:08] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:29:56 INFO: Request: GET /health — from 127.0.0.1
+2025-06-02 17:29:56 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:29:56 INFO: Response: 404 GET /health
+2025-06-02 17:29:56 INFO: 127.0.0.1 - - [02/Jun/2025 17:29:56] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-06-02 17:56:49 INFO:  * Detected change in 'C:\\Users\\colle\\Documents\\GitHub\\ops-control-dashboard\\backend\\app\\metrics.py', reloading
+2025-06-02 17:56:49 INFO:  * Restarting with stat
+2025-06-02 17:56:50 WARNING:  * Debugger is active!
+2025-06-02 17:56:50 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 17:57:29 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 17:57:29 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 17:57:29 INFO:  * Restarting with stat
+2025-06-02 17:57:29 WARNING:  * Debugger is active!
+2025-06-02 17:57:29 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 17:57:36 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:57:36 INFO: Response: 200 GET /processes
+2025-06-02 17:57:36 INFO: 127.0.0.1 - - [02/Jun/2025 17:57:36] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:57:36 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:57:36 INFO: Response: 200 GET /processes
+2025-06-02 17:57:36 INFO: 127.0.0.1 - - [02/Jun/2025 17:57:36] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:58:22 INFO: Request: GET /health — from 127.0.0.1
+2025-06-02 17:58:22 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:58:22 INFO: Response: 404 GET /health
+2025-06-02 17:58:22 INFO: 127.0.0.1 - - [02/Jun/2025 17:58:22] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-06-02 18:03:35 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 18:03:35 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 18:03:35 INFO:  * Restarting with stat
+2025-06-02 18:03:36 WARNING:  * Debugger is active!
+2025-06-02 18:03:36 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 18:38:06 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 18:38:06 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 18:38:06 INFO:  * Restarting with stat
+2025-06-02 18:38:06 WARNING:  * Debugger is active!
+2025-06-02 18:38:06 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 18:38:14 INFO: Request: GET / — from 127.0.0.1
+2025-06-02 18:38:14 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 18:38:14 INFO: Response: 404 GET /
+2025-06-02 18:38:14 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:14] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-02 18:38:45 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:45 INFO: Response: 200 GET /processes
+2025-06-02 18:38:45 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:45] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:38:45 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:45 INFO: Response: 200 GET /processes
+2025-06-02 18:38:45 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:45] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:38:49 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:49 INFO: Response: 200 GET /processes
+2025-06-02 18:38:49 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:49] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:38:49 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:49 INFO: Response: 200 GET /processes
+2025-06-02 18:38:49 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:49] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:57:31 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:57:31 INFO: Response: 200 GET /processes
+2025-06-02 18:57:31 INFO: 127.0.0.1 - - [02/Jun/2025 18:57:31] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:57:31 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:57:31 INFO: Response: 200 GET /processes
+2025-06-02 18:57:31 INFO: 127.0.0.1 - - [02/Jun/2025 18:57:31] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:58:15 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 200 OPTIONS /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 18:58:15 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 201 POST /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 18:58:15 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 200 GET /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:58:15 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 200 GET /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:40 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 200 OPTIONS /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 18:59:40 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 201 POST /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 18:59:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 200 GET /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 200 GET /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:54 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 18:59:54 INFO: Response: 200 OPTIONS /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 18:59:54 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 18:59:54 INFO: Response: 201 POST /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 18:59:54 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:59:54 INFO: Response: 200 GET /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:54 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 18:59:54 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 18:59:54 INFO: Response: 429 GET /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "[31m[1mGET /processes?page=1&per_page=5 HTTP/1.1[0m" 429 -
+2025-06-02 19:00:07 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:07 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:07 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:07 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:07] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:13 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:13 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:13 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:13 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:13] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:17 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:17 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:17 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:17 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:17] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:18 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:18 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:18 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:18 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:18] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:22 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:22 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:22 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:22 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:22] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:22 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:22 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:22 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:22 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:22] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:23 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:23 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:23 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:23 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:23] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:27 INFO: Request: OPTIONS /processes/1 — from 127.0.0.1
+2025-06-02 19:00:27 INFO: Response: 200 OPTIONS /processes/1
+2025-06-02 19:00:27 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:27] "OPTIONS /processes/1 HTTP/1.1" 200 -
+2025-06-02 19:00:27 INFO: Request: DELETE /processes/1 — from 127.0.0.1
+2025-06-02 19:00:27 ERROR: Unhandled Exception: 'Counter' object has no attribute 'dec'
+2025-06-02 19:00:27 INFO: Response: 500 DELETE /processes/1
+2025-06-02 19:00:27 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:27] "[35m[1mDELETE /processes/1 HTTP/1.1[0m" 500 -
+2025-06-02 19:00:28 INFO: Request: DELETE /processes/1 — from 127.0.0.1
+2025-06-02 19:00:28 ERROR: Unhandled Exception: 'Counter' object has no attribute 'dec'
+2025-06-02 19:00:28 INFO: Response: 500 DELETE /processes/1
+2025-06-02 19:00:28 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:28] "[35m[1mDELETE /processes/1 HTTP/1.1[0m" 500 -
+2025-06-02 19:00:30 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:30 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:30 INFO: Response: 429 GET /processes
+2025-06-02 19:00:30 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:30] "[31m[1mGET /processes?page=1&per_page=5 HTTP/1.1[0m" 429 -
+2025-06-02 19:00:30 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:30 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:30 INFO: Response: 429 GET /processes
+2025-06-02 19:00:30 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:30] "[31m[1mGET /processes?page=1&per_page=5 HTTP/1.1[0m" 429 -
+2025-06-02 19:00:39 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:39 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:39 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:39 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:39] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:40 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:40 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:40 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:40 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 200 OPTIONS /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 19:00:40 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 201 POST /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 19:00:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 200 GET /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 19:00:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 200 GET /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 19:05:53 INFO:  * Detected change in 'C:\\Users\\colle\\Documents\\GitHub\\ops-control-dashboard\\backend\\app\\routes.py', reloading
+2025-06-02 19:05:53 INFO:  * Restarting with stat
+2025-06-02 19:18:45 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 19:18:45 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-02 19:18:45 [INFO]  * Restarting with stat
+2025-06-02 19:18:46 [WARNING]  * Debugger is active!
+2025-06-02 19:18:46 [INFO]  * Debugger PIN: 799-882-772
+2025-06-02 19:19:25 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 19:19:25 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-02 19:19:25 [INFO]  * Restarting with stat
+2025-06-02 19:19:26 [WARNING]  * Debugger is active!
+2025-06-02 19:19:26 [INFO]  * Debugger PIN: 799-882-772
