@@ -1,11 +1,12 @@
-# backend/app/config.py
+# app/config.py
 
 import os
 from dotenv import load_dotenv
 
-# Load .env variables
 load_dotenv()
 
 class Config:
-    SECRET_KEY = os.getenv("SECRET_KEY", "defaultsecret")
-    RATE_LIMIT_DEFAULT = os.getenv("RATE_LIMIT_DEFAULT", "5 per minute")
+    SECRET_KEY = os.getenv("SECRET_KEY", "default_secret_key")
+    RATELIMIT_DEFAULT = "100 per minute"
+    SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URL", "sqlite:///ops_control.db")
+    SQLALCHEMY_TRACK_MODIFICATIONS = False

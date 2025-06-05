@@ -1,0 +1,785 @@
+2025-05-31 16:52:14,170 [INFO] Request: GET /health — from 127.0.0.1
+2025-05-31 16:52:14,171 [INFO] Health check accessed
+2025-05-31 16:52:21,955 [INFO] Request: GET /processes — from 127.0.0.1
+2025-05-31 17:01:19,830 [INFO] Request: GET /health — from 127.0.0.1
+2025-05-31 17:01:19,831 [INFO] Health check accessed
+2025-05-31 17:01:50,047 [INFO] Request: GET /.well-known/appspecific/com.chrome.devtools.json — from 127.0.0.1
+2025-06-02 17:27:58 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 17:27:58 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 17:27:58 INFO:  * Restarting with stat
+2025-06-02 17:27:59 WARNING:  * Debugger is active!
+2025-06-02 17:27:59 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 17:28:04 INFO: Request: GET /health — from 127.0.0.1
+2025-06-02 17:28:04 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:28:04 INFO: Response: 404 GET /health
+2025-06-02 17:28:04 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:04] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-06-02 17:28:04 INFO: Request: GET /favicon.ico — from 127.0.0.1
+2025-06-02 17:28:04 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:28:04 INFO: Response: 404 GET /favicon.ico
+2025-06-02 17:28:04 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-02 17:28:08 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:28:08 INFO: Response: 200 GET /processes
+2025-06-02 17:28:08 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:08] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:28:08 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:28:08 INFO: Response: 200 GET /processes
+2025-06-02 17:28:08 INFO: 127.0.0.1 - - [02/Jun/2025 17:28:08] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:29:56 INFO: Request: GET /health — from 127.0.0.1
+2025-06-02 17:29:56 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:29:56 INFO: Response: 404 GET /health
+2025-06-02 17:29:56 INFO: 127.0.0.1 - - [02/Jun/2025 17:29:56] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-06-02 17:56:49 INFO:  * Detected change in 'C:\\Users\\colle\\Documents\\GitHub\\ops-control-dashboard\\backend\\app\\metrics.py', reloading
+2025-06-02 17:56:49 INFO:  * Restarting with stat
+2025-06-02 17:56:50 WARNING:  * Debugger is active!
+2025-06-02 17:56:50 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 17:57:29 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 17:57:29 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 17:57:29 INFO:  * Restarting with stat
+2025-06-02 17:57:29 WARNING:  * Debugger is active!
+2025-06-02 17:57:29 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 17:57:36 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:57:36 INFO: Response: 200 GET /processes
+2025-06-02 17:57:36 INFO: 127.0.0.1 - - [02/Jun/2025 17:57:36] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:57:36 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 17:57:36 INFO: Response: 200 GET /processes
+2025-06-02 17:57:36 INFO: 127.0.0.1 - - [02/Jun/2025 17:57:36] "GET /processes HTTP/1.1" 200 -
+2025-06-02 17:58:22 INFO: Request: GET /health — from 127.0.0.1
+2025-06-02 17:58:22 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 17:58:22 INFO: Response: 404 GET /health
+2025-06-02 17:58:22 INFO: 127.0.0.1 - - [02/Jun/2025 17:58:22] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-06-02 18:03:35 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 18:03:35 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 18:03:35 INFO:  * Restarting with stat
+2025-06-02 18:03:36 WARNING:  * Debugger is active!
+2025-06-02 18:03:36 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 18:38:06 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 18:38:06 INFO: [33mPress CTRL+C to quit[0m
+2025-06-02 18:38:06 INFO:  * Restarting with stat
+2025-06-02 18:38:06 WARNING:  * Debugger is active!
+2025-06-02 18:38:06 INFO:  * Debugger PIN: 799-882-772
+2025-06-02 18:38:14 INFO: Request: GET / — from 127.0.0.1
+2025-06-02 18:38:14 ERROR: Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-02 18:38:14 INFO: Response: 404 GET /
+2025-06-02 18:38:14 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:14] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-02 18:38:45 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:45 INFO: Response: 200 GET /processes
+2025-06-02 18:38:45 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:45] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:38:45 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:45 INFO: Response: 200 GET /processes
+2025-06-02 18:38:45 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:45] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:38:49 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:49 INFO: Response: 200 GET /processes
+2025-06-02 18:38:49 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:49] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:38:49 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:38:49 INFO: Response: 200 GET /processes
+2025-06-02 18:38:49 INFO: 127.0.0.1 - - [02/Jun/2025 18:38:49] "GET /processes HTTP/1.1" 200 -
+2025-06-02 18:57:31 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:57:31 INFO: Response: 200 GET /processes
+2025-06-02 18:57:31 INFO: 127.0.0.1 - - [02/Jun/2025 18:57:31] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:57:31 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:57:31 INFO: Response: 200 GET /processes
+2025-06-02 18:57:31 INFO: 127.0.0.1 - - [02/Jun/2025 18:57:31] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:58:15 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 200 OPTIONS /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 18:58:15 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 201 POST /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 18:58:15 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 200 GET /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:58:15 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:58:15 INFO: Response: 200 GET /processes
+2025-06-02 18:58:15 INFO: 127.0.0.1 - - [02/Jun/2025 18:58:15] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:40 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 200 OPTIONS /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 18:59:40 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 201 POST /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 18:59:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 200 GET /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:59:40 INFO: Response: 200 GET /processes
+2025-06-02 18:59:40 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:54 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 18:59:54 INFO: Response: 200 OPTIONS /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 18:59:54 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 18:59:54 INFO: Response: 201 POST /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 18:59:54 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 18:59:54 INFO: Response: 200 GET /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 18:59:54 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 18:59:54 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 18:59:54 INFO: Response: 429 GET /processes
+2025-06-02 18:59:54 INFO: 127.0.0.1 - - [02/Jun/2025 18:59:54] "[31m[1mGET /processes?page=1&per_page=5 HTTP/1.1[0m" 429 -
+2025-06-02 19:00:07 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:07 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:07 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:07 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:07] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:13 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:13 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:13 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:13 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:13] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:17 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:17 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:17 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:17 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:17] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:18 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:18 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:18 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:18 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:18] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:22 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:22 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:22 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:22 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:22] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:22 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:22 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:22 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:22 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:22] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:23 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:23 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:23 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:23 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:23] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:27 INFO: Request: OPTIONS /processes/1 — from 127.0.0.1
+2025-06-02 19:00:27 INFO: Response: 200 OPTIONS /processes/1
+2025-06-02 19:00:27 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:27] "OPTIONS /processes/1 HTTP/1.1" 200 -
+2025-06-02 19:00:27 INFO: Request: DELETE /processes/1 — from 127.0.0.1
+2025-06-02 19:00:27 ERROR: Unhandled Exception: 'Counter' object has no attribute 'dec'
+2025-06-02 19:00:27 INFO: Response: 500 DELETE /processes/1
+2025-06-02 19:00:27 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:27] "[35m[1mDELETE /processes/1 HTTP/1.1[0m" 500 -
+2025-06-02 19:00:28 INFO: Request: DELETE /processes/1 — from 127.0.0.1
+2025-06-02 19:00:28 ERROR: Unhandled Exception: 'Counter' object has no attribute 'dec'
+2025-06-02 19:00:28 INFO: Response: 500 DELETE /processes/1
+2025-06-02 19:00:28 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:28] "[35m[1mDELETE /processes/1 HTTP/1.1[0m" 500 -
+2025-06-02 19:00:30 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:30 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:30 INFO: Response: 429 GET /processes
+2025-06-02 19:00:30 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:30] "[31m[1mGET /processes?page=1&per_page=5 HTTP/1.1[0m" 429 -
+2025-06-02 19:00:30 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:30 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:30 INFO: Response: 429 GET /processes
+2025-06-02 19:00:30 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:30] "[31m[1mGET /processes?page=1&per_page=5 HTTP/1.1[0m" 429 -
+2025-06-02 19:00:39 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:39 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:39 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:39 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:39] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:40 INFO: ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: processes.get_processes
+2025-06-02 19:00:40 ERROR: Unhandled Exception: 429 Too Many Requests: 429 Too Many Requests: 5 per 1 minute
+2025-06-02 19:00:40 INFO: Response: 429 OPTIONS /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "[31m[1mOPTIONS /processes HTTP/1.1[0m" 429 -
+2025-06-02 19:00:40 INFO: Request: OPTIONS /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 200 OPTIONS /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-02 19:00:40 INFO: Request: POST /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 201 POST /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-02 19:00:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 200 GET /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 19:00:40 INFO: Request: GET /processes — from 127.0.0.1
+2025-06-02 19:00:40 INFO: Response: 200 GET /processes
+2025-06-02 19:00:40 INFO: 127.0.0.1 - - [02/Jun/2025 19:00:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-02 19:05:53 INFO:  * Detected change in 'C:\\Users\\colle\\Documents\\GitHub\\ops-control-dashboard\\backend\\app\\routes.py', reloading
+2025-06-02 19:05:53 INFO:  * Restarting with stat
+2025-06-02 19:18:45 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 19:18:45 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-02 19:18:45 [INFO]  * Restarting with stat
+2025-06-02 19:18:46 [WARNING]  * Debugger is active!
+2025-06-02 19:18:46 [INFO]  * Debugger PIN: 799-882-772
+2025-06-02 19:19:25 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 19:19:25 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-02 19:19:25 [INFO]  * Restarting with stat
+2025-06-02 19:19:26 [WARNING]  * Debugger is active!
+2025-06-02 19:19:26 [INFO]  * Debugger PIN: 799-882-772
+2025-06-02 19:31:38 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 19:31:38 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-02 19:31:38 [INFO]  * Restarting with stat
+2025-06-02 19:31:38 [WARNING]  * Debugger is active!
+2025-06-02 19:31:38 [INFO]  * Debugger PIN: 799-882-772
+2025-06-03 16:34:41 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 16:34:41 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-03 16:34:41 [INFO]  * Restarting with stat
+2025-06-03 16:34:41 [WARNING]  * Debugger is active!
+2025-06-03 16:34:41 [INFO]  * Debugger PIN: 799-882-772
+2025-06-03 17:02:48 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 17:02:48 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-03 17:02:48 [INFO]  * Restarting with stat
+2025-06-03 17:02:48 [WARNING]  * Debugger is active!
+2025-06-03 17:02:48 [INFO]  * Debugger PIN: 799-882-772
+2025-06-03 17:03:04 [INFO] Request: GET /health — from 127.0.0.1
+2025-06-03 17:03:04 [ERROR] Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-03 17:03:04 [INFO] Response: 404 GET /health
+2025-06-03 17:03:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:03:04] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-06-03 17:03:08 [INFO] 127.0.0.1 - - [03/Jun/2025 17:03:08] "GET /metrics HTTP/1.1" 200 -
+2025-06-03 17:03:16 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:03:16 [INFO] Fetching process list
+2025-06-03 17:03:16 [INFO] Response: 200 GET /processes
+2025-06-03 17:03:16 [INFO] 127.0.0.1 - - [03/Jun/2025 17:03:16] "GET /processes HTTP/1.1" 200 -
+2025-06-03 17:03:21 [INFO] Request: GET /doesnotexist — from 127.0.0.1
+2025-06-03 17:03:21 [ERROR] Unhandled Exception: 404 Not Found: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-06-03 17:03:21 [INFO] Response: 404 GET /doesnotexist
+2025-06-03 17:03:21 [INFO] 127.0.0.1 - - [03/Jun/2025 17:03:21] "[33mGET /doesnotexist HTTP/1.1[0m" 404 -
+2025-06-03 17:03:54 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:03:54 [INFO] Fetching process list
+2025-06-03 17:03:54 [INFO] Response: 200 GET /processes
+2025-06-03 17:03:54 [INFO] 127.0.0.1 - - [03/Jun/2025 17:03:54] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:03:54 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:03:54 [INFO] Fetching process list
+2025-06-03 17:03:54 [INFO] Response: 200 GET /processes
+2025-06-03 17:03:54 [INFO] 127.0.0.1 - - [03/Jun/2025 17:03:54] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:11 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:04:11 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:04:11 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:11] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:04:11 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:04:11 [INFO] Process added: {'id': 1, 'name': 'Test 1', 'priority': 'Medium', 'timestamp': '2025-06-01T17:04'}
+2025-06-03 17:04:11 [INFO] Response: 201 POST /processes
+2025-06-03 17:04:11 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:11] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:04:12 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:12 [INFO] Fetching process list
+2025-06-03 17:04:12 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:12] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:12 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:12 [INFO] Fetching process list
+2025-06-03 17:04:12 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:12] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:22 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:04:22 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:04:22 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:22] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:04:22 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:04:22 [INFO] Process added: {'id': 2, 'name': 'Test 2', 'priority': 'Medium', 'timestamp': '2025-06-02T17:04'}
+2025-06-03 17:04:22 [INFO] Response: 201 POST /processes
+2025-06-03 17:04:22 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:22] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:04:23 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:23 [INFO] Fetching process list
+2025-06-03 17:04:23 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:23 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:23] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:23 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:23 [INFO] Fetching process list
+2025-06-03 17:04:23 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:23 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:23] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:32 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:04:32 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:04:32 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:32] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:04:32 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:04:32 [INFO] Process added: {'id': 3, 'name': 'Test 3', 'priority': 'Medium', 'timestamp': '2025-06-03T17:04'}
+2025-06-03 17:04:32 [INFO] Response: 201 POST /processes
+2025-06-03 17:04:32 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:32] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:04:33 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:33 [INFO] Fetching process list
+2025-06-03 17:04:33 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:33 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:33] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:33 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:33 [INFO] Fetching process list
+2025-06-03 17:04:33 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:33 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:33] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:42 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:04:42 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:04:42 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:42] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:04:42 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:04:42 [INFO] Process added: {'id': 4, 'name': 'Test 4', 'priority': 'Medium', 'timestamp': '2025-06-04T17:04'}
+2025-06-03 17:04:42 [INFO] Response: 201 POST /processes
+2025-06-03 17:04:42 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:42] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:04:42 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:42 [INFO] Fetching process list
+2025-06-03 17:04:42 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:42 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:42] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:42 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:42 [INFO] Fetching process list
+2025-06-03 17:04:42 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:42 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:42] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:52 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:04:52 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:04:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:52] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:04:52 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:04:52 [INFO] Process added: {'id': 5, 'name': 'Test 5', 'priority': 'Medium', 'timestamp': '2025-06-05T17:04'}
+2025-06-03 17:04:52 [INFO] Response: 201 POST /processes
+2025-06-03 17:04:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:52] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:04:52 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:52 [INFO] Fetching process list
+2025-06-03 17:04:52 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:52] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:04:52 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:04:52 [INFO] Fetching process list
+2025-06-03 17:04:52 [INFO] Response: 200 GET /processes
+2025-06-03 17:04:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:04:52] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:08 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:05:08 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:05:08 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:08] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:05:08 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:05:08 [INFO] Process added: {'id': 6, 'name': 'Test 6', 'priority': 'High', 'timestamp': '2025-06-06T17:05'}
+2025-06-03 17:05:08 [INFO] Response: 201 POST /processes
+2025-06-03 17:05:08 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:08] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:05:09 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:09 [INFO] Fetching process list
+2025-06-03 17:05:09 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:09 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:09] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:09 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:09 [INFO] Fetching process list
+2025-06-03 17:05:09 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:09 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:09] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:21 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:05:21 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:05:21 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:21] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:05:21 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:05:21 [INFO] Process added: {'id': 7, 'name': 'Test 7', 'priority': 'High', 'timestamp': '2025-06-07T17:05'}
+2025-06-03 17:05:21 [INFO] Response: 201 POST /processes
+2025-06-03 17:05:21 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:21] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:05:21 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:21 [INFO] Fetching process list
+2025-06-03 17:05:21 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:21 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:21] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:21 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:21 [INFO] Fetching process list
+2025-06-03 17:05:21 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:21 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:21] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:23 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:23 [INFO] Fetching process list
+2025-06-03 17:05:23 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:23 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:23] "GET /processes?page=2&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:24 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:24 [INFO] Fetching process list
+2025-06-03 17:05:24 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:24 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:24] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:41 [INFO] Request: OPTIONS /processes/1 — from 127.0.0.1
+2025-06-03 17:05:41 [INFO] Response: 200 OPTIONS /processes/1
+2025-06-03 17:05:41 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:41] "OPTIONS /processes/1 HTTP/1.1" 200 -
+2025-06-03 17:05:41 [INFO] Request: DELETE /processes/1 — from 127.0.0.1
+2025-06-03 17:05:41 [INFO] Process deleted: 1
+2025-06-03 17:05:41 [INFO] Response: 200 DELETE /processes/1
+2025-06-03 17:05:41 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:41] "DELETE /processes/1 HTTP/1.1" 200 -
+2025-06-03 17:05:41 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:41 [INFO] Fetching process list
+2025-06-03 17:05:41 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:41 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:41] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:42 [INFO] Request: OPTIONS /processes/2 — from 127.0.0.1
+2025-06-03 17:05:42 [INFO] Response: 200 OPTIONS /processes/2
+2025-06-03 17:05:42 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:42] "OPTIONS /processes/2 HTTP/1.1" 200 -
+2025-06-03 17:05:42 [INFO] Request: DELETE /processes/2 — from 127.0.0.1
+2025-06-03 17:05:42 [INFO] Process deleted: 2
+2025-06-03 17:05:42 [INFO] Response: 200 DELETE /processes/2
+2025-06-03 17:05:42 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:42] "DELETE /processes/2 HTTP/1.1" 200 -
+2025-06-03 17:05:42 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:42 [INFO] Fetching process list
+2025-06-03 17:05:42 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:42 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:42] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:43 [INFO] Request: OPTIONS /processes/3 — from 127.0.0.1
+2025-06-03 17:05:43 [INFO] Response: 200 OPTIONS /processes/3
+2025-06-03 17:05:43 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:43] "OPTIONS /processes/3 HTTP/1.1" 200 -
+2025-06-03 17:05:43 [INFO] Request: DELETE /processes/3 — from 127.0.0.1
+2025-06-03 17:05:43 [INFO] Process deleted: 3
+2025-06-03 17:05:43 [INFO] Response: 200 DELETE /processes/3
+2025-06-03 17:05:43 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:43] "DELETE /processes/3 HTTP/1.1" 200 -
+2025-06-03 17:05:43 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:43 [INFO] Fetching process list
+2025-06-03 17:05:43 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:43 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:43] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:44 [INFO] Request: OPTIONS /processes/4 — from 127.0.0.1
+2025-06-03 17:05:44 [INFO] Response: 200 OPTIONS /processes/4
+2025-06-03 17:05:44 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:44] "OPTIONS /processes/4 HTTP/1.1" 200 -
+2025-06-03 17:05:44 [INFO] Request: DELETE /processes/4 — from 127.0.0.1
+2025-06-03 17:05:44 [INFO] Process deleted: 4
+2025-06-03 17:05:44 [INFO] Response: 200 DELETE /processes/4
+2025-06-03 17:05:44 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:44] "DELETE /processes/4 HTTP/1.1" 200 -
+2025-06-03 17:05:44 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:44 [INFO] Fetching process list
+2025-06-03 17:05:44 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:44 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:44] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:44 [INFO] Request: OPTIONS /processes/5 — from 127.0.0.1
+2025-06-03 17:05:44 [INFO] Response: 200 OPTIONS /processes/5
+2025-06-03 17:05:44 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:44] "OPTIONS /processes/5 HTTP/1.1" 200 -
+2025-06-03 17:05:44 [INFO] Request: DELETE /processes/5 — from 127.0.0.1
+2025-06-03 17:05:44 [INFO] Process deleted: 5
+2025-06-03 17:05:44 [INFO] Response: 200 DELETE /processes/5
+2025-06-03 17:05:44 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:44] "DELETE /processes/5 HTTP/1.1" 200 -
+2025-06-03 17:05:44 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:44 [INFO] Fetching process list
+2025-06-03 17:05:44 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:44 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:44] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:45 [INFO] Request: OPTIONS /processes/6 — from 127.0.0.1
+2025-06-03 17:05:45 [INFO] Response: 200 OPTIONS /processes/6
+2025-06-03 17:05:45 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:45] "OPTIONS /processes/6 HTTP/1.1" 200 -
+2025-06-03 17:05:45 [INFO] Request: DELETE /processes/6 — from 127.0.0.1
+2025-06-03 17:05:45 [INFO] Process deleted: 6
+2025-06-03 17:05:45 [INFO] Response: 200 DELETE /processes/6
+2025-06-03 17:05:45 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:45] "DELETE /processes/6 HTTP/1.1" 200 -
+2025-06-03 17:05:45 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:45 [INFO] Fetching process list
+2025-06-03 17:05:45 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:45 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:45] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:05:46 [INFO] Request: OPTIONS /processes/7 — from 127.0.0.1
+2025-06-03 17:05:46 [INFO] Response: 200 OPTIONS /processes/7
+2025-06-03 17:05:46 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:46] "OPTIONS /processes/7 HTTP/1.1" 200 -
+2025-06-03 17:05:46 [INFO] Request: DELETE /processes/7 — from 127.0.0.1
+2025-06-03 17:05:46 [INFO] Process deleted: 7
+2025-06-03 17:05:46 [INFO] Response: 200 DELETE /processes/7
+2025-06-03 17:05:46 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:46] "DELETE /processes/7 HTTP/1.1" 200 -
+2025-06-03 17:05:46 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:05:46 [INFO] Fetching process list
+2025-06-03 17:05:46 [INFO] Response: 200 GET /processes
+2025-06-03 17:05:46 [INFO] 127.0.0.1 - - [03/Jun/2025 17:05:46] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:22:31 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 17:22:31 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-03 17:22:31 [INFO]  * Restarting with stat
+2025-06-03 17:22:31 [WARNING]  * Debugger is active!
+2025-06-03 17:22:31 [INFO]  * Debugger PIN: 799-882-772
+2025-06-03 17:22:58 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:22:58 [INFO] Fetching process list
+2025-06-03 17:22:58 [INFO] Response: 200 GET /processes
+2025-06-03 17:22:58 [INFO] 127.0.0.1 - - [03/Jun/2025 17:22:58] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:22:58 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:22:58 [INFO] Fetching process list
+2025-06-03 17:22:58 [INFO] Response: 200 GET /processes
+2025-06-03 17:22:58 [INFO] 127.0.0.1 - - [03/Jun/2025 17:22:58] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:23:12 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:23:12 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:23:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:12] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:23:12 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:23:12 [INFO] Process added: {'id': 1, 'name': 'Test Page 1', 'priority': 'High', 'timestamp': '2025-06-01T17:23'}
+2025-06-03 17:23:12 [INFO] Response: 201 POST /processes
+2025-06-03 17:23:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:12] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:23:12 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:23:12 [INFO] Fetching process list
+2025-06-03 17:23:12 [INFO] Response: 200 GET /processes
+2025-06-03 17:23:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:12] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:23:12 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:23:12 [INFO] Fetching process list
+2025-06-03 17:23:12 [INFO] Response: 200 GET /processes
+2025-06-03 17:23:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:12] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:23:36 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:23:36 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:23:36 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:36] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:23:36 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:23:36 [INFO] Process added: {'id': 2, 'name': 'Test Page 2', 'priority': 'Medium', 'timestamp': '2025-06-02T17:23'}
+2025-06-03 17:23:36 [INFO] Response: 201 POST /processes
+2025-06-03 17:23:36 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:36] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:23:36 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:23:36 [INFO] Fetching process list
+2025-06-03 17:23:36 [INFO] Response: 200 GET /processes
+2025-06-03 17:23:36 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:36] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:23:36 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:23:36 [INFO] Fetching process list
+2025-06-03 17:23:36 [INFO] Response: 200 GET /processes
+2025-06-03 17:23:36 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:36] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:23:52 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:23:52 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:23:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:52] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:23:52 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:23:52 [INFO] Process added: {'id': 3, 'name': 'Test 3', 'priority': 'Medium', 'timestamp': '2025-06-03T17:23'}
+2025-06-03 17:23:52 [INFO] Response: 201 POST /processes
+2025-06-03 17:23:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:52] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:23:52 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:23:52 [INFO] Fetching process list
+2025-06-03 17:23:52 [INFO] Response: 200 GET /processes
+2025-06-03 17:23:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:52] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:23:52 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:23:52 [INFO] Fetching process list
+2025-06-03 17:23:52 [INFO] Response: 200 GET /processes
+2025-06-03 17:23:52 [INFO] 127.0.0.1 - - [03/Jun/2025 17:23:52] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:24:01 [INFO] Request: OPTIONS /processes/3 — from 127.0.0.1
+2025-06-03 17:24:01 [INFO] Response: 200 OPTIONS /processes/3
+2025-06-03 17:24:01 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:01] "OPTIONS /processes/3 HTTP/1.1" 200 -
+2025-06-03 17:24:01 [INFO] Request: DELETE /processes/3 — from 127.0.0.1
+2025-06-03 17:24:01 [INFO] Process deleted: 3
+2025-06-03 17:24:01 [INFO] Response: 200 DELETE /processes/3
+2025-06-03 17:24:01 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:01] "DELETE /processes/3 HTTP/1.1" 200 -
+2025-06-03 17:24:01 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:24:01 [INFO] Fetching process list
+2025-06-03 17:24:01 [INFO] Response: 200 GET /processes
+2025-06-03 17:24:01 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:01] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:24:12 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:24:12 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:24:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:12] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:24:12 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:24:12 [INFO] Process added: {'id': 4, 'name': 'Test Page 3', 'priority': 'Medium', 'timestamp': '2025-06-03T17:24'}
+2025-06-03 17:24:12 [INFO] Response: 201 POST /processes
+2025-06-03 17:24:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:12] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:24:12 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:24:12 [INFO] Fetching process list
+2025-06-03 17:24:12 [INFO] Response: 200 GET /processes
+2025-06-03 17:24:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:12] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:24:12 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:24:12 [INFO] Fetching process list
+2025-06-03 17:24:12 [INFO] Response: 200 GET /processes
+2025-06-03 17:24:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:12] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:24:27 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:24:27 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:24:27 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:27] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:24:27 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:24:27 [INFO] Process added: {'id': 5, 'name': 'Test Page 4', 'priority': 'High', 'timestamp': '2025-06-04T17:24'}
+2025-06-03 17:24:27 [INFO] Response: 201 POST /processes
+2025-06-03 17:24:27 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:27] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:24:27 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:24:27 [INFO] Fetching process list
+2025-06-03 17:24:27 [INFO] Response: 200 GET /processes
+2025-06-03 17:24:27 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:27] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:24:27 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:24:27 [INFO] Fetching process list
+2025-06-03 17:24:27 [INFO] Response: 200 GET /processes
+2025-06-03 17:24:27 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:27] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:24:40 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:24:40 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:24:40 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:40] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:24:40 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:24:40 [INFO] Process added: {'id': 6, 'name': 'Test Page 5', 'priority': 'High', 'timestamp': '2025-06-05T17:24'}
+2025-06-03 17:24:40 [INFO] Response: 201 POST /processes
+2025-06-03 17:24:40 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:40] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:24:40 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:24:40 [INFO] Fetching process list
+2025-06-03 17:24:40 [INFO] Response: 200 GET /processes
+2025-06-03 17:24:40 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:24:40 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:24:40 [INFO] Fetching process list
+2025-06-03 17:24:40 [INFO] Response: 200 GET /processes
+2025-06-03 17:24:40 [INFO] 127.0.0.1 - - [03/Jun/2025 17:24:40] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:25:04 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:25:04 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:25:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:04] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:25:04 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:25:04 [INFO] Process added: {'id': 7, 'name': 'Test Page 6', 'priority': 'Low', 'timestamp': '2025-06-06T17:25'}
+2025-06-03 17:25:04 [INFO] Response: 201 POST /processes
+2025-06-03 17:25:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:04] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:25:04 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:25:04 [INFO] Fetching process list
+2025-06-03 17:25:04 [INFO] Response: 200 GET /processes
+2025-06-03 17:25:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:04] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:25:04 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:25:04 [INFO] Fetching process list
+2025-06-03 17:25:04 [INFO] Response: 200 GET /processes
+2025-06-03 17:25:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:04] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:25:17 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:25:17 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:25:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:17] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:25:17 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:25:17 [INFO] Process added: {'id': 8, 'name': 'Test Page 7', 'priority': 'Low', 'timestamp': '2025-06-07T17:25'}
+2025-06-03 17:25:17 [INFO] Response: 201 POST /processes
+2025-06-03 17:25:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:17] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:25:17 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:25:17 [INFO] Fetching process list
+2025-06-03 17:25:17 [INFO] Response: 200 GET /processes
+2025-06-03 17:25:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:17] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:25:17 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:25:17 [INFO] Fetching process list
+2025-06-03 17:25:17 [INFO] Response: 200 GET /processes
+2025-06-03 17:25:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:25:17] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:02 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:02 [INFO] Fetching process list
+2025-06-03 17:26:02 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:02 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:02] "GET /processes?page=2&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:17 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:26:17 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:26:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:17] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:26:17 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:26:17 [INFO] Process added: {'id': 9, 'name': 'Test Page 8', 'priority': 'Medium', 'timestamp': '2025-06-08T17:26'}
+2025-06-03 17:26:17 [INFO] Response: 201 POST /processes
+2025-06-03 17:26:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:17] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:26:17 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:17 [INFO] Fetching process list
+2025-06-03 17:26:17 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:17] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:17 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:17 [INFO] Fetching process list
+2025-06-03 17:26:17 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:17] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:31 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:26:31 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:26:31 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:31] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:26:31 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:26:31 [INFO] Process added: {'id': 10, 'name': 'Test Page 9', 'priority': 'High', 'timestamp': '2025-06-09T17:26'}
+2025-06-03 17:26:31 [INFO] Response: 201 POST /processes
+2025-06-03 17:26:31 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:31] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:26:31 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:31 [INFO] Fetching process list
+2025-06-03 17:26:31 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:31 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:31] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:31 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:31 [INFO] Fetching process list
+2025-06-03 17:26:31 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:31 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:31] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:35 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:35 [INFO] Fetching process list
+2025-06-03 17:26:35 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:35 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:35] "GET /processes?page=2&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:47 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:26:47 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:26:47 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:47] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:26:47 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:26:47 [INFO] Process added: {'id': 11, 'name': 'Test Page 10', 'priority': 'Medium', 'timestamp': '2025-06-10T17:26'}
+2025-06-03 17:26:47 [INFO] Response: 201 POST /processes
+2025-06-03 17:26:47 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:47] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:26:47 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:47 [INFO] Fetching process list
+2025-06-03 17:26:47 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:47 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:47] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:47 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:47 [INFO] Fetching process list
+2025-06-03 17:26:47 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:47 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:47] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:26:49 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:26:49 [INFO] Fetching process list
+2025-06-03 17:26:49 [INFO] Response: 200 GET /processes
+2025-06-03 17:26:49 [INFO] 127.0.0.1 - - [03/Jun/2025 17:26:49] "GET /processes?page=2&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:04 [INFO] Request: OPTIONS /processes — from 127.0.0.1
+2025-06-03 17:27:04 [INFO] Response: 200 OPTIONS /processes
+2025-06-03 17:27:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:04] "OPTIONS /processes HTTP/1.1" 200 -
+2025-06-03 17:27:04 [INFO] Request: POST /processes — from 127.0.0.1
+2025-06-03 17:27:04 [INFO] Process added: {'id': 12, 'name': 'Test Page 11', 'priority': 'High', 'timestamp': '2025-06-11T17:27'}
+2025-06-03 17:27:04 [INFO] Response: 201 POST /processes
+2025-06-03 17:27:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:04] "[35m[1mPOST /processes HTTP/1.1[0m" 201 -
+2025-06-03 17:27:04 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:04 [INFO] Fetching process list
+2025-06-03 17:27:04 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:04] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:04 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:04 [INFO] Fetching process list
+2025-06-03 17:27:04 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:04 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:04] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:05 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:05 [INFO] Fetching process list
+2025-06-03 17:27:05 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:05 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:05] "GET /processes?page=2&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:06 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:06 [INFO] Fetching process list
+2025-06-03 17:27:06 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:06 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:06] "GET /processes?page=3&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:07 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:07 [INFO] Fetching process list
+2025-06-03 17:27:07 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:07 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:07] "GET /processes?page=2&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:11 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:11 [INFO] Fetching process list
+2025-06-03 17:27:11 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:11 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:11] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:12 [INFO] Request: OPTIONS /processes/1 — from 127.0.0.1
+2025-06-03 17:27:12 [INFO] Response: 200 OPTIONS /processes/1
+2025-06-03 17:27:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:12] "OPTIONS /processes/1 HTTP/1.1" 200 -
+2025-06-03 17:27:12 [INFO] Request: DELETE /processes/1 — from 127.0.0.1
+2025-06-03 17:27:12 [INFO] Process deleted: 1
+2025-06-03 17:27:12 [INFO] Response: 200 DELETE /processes/1
+2025-06-03 17:27:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:12] "DELETE /processes/1 HTTP/1.1" 200 -
+2025-06-03 17:27:12 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:12 [INFO] Fetching process list
+2025-06-03 17:27:12 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:12 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:12] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:13 [INFO] Request: OPTIONS /processes/2 — from 127.0.0.1
+2025-06-03 17:27:13 [INFO] Response: 200 OPTIONS /processes/2
+2025-06-03 17:27:13 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:13] "OPTIONS /processes/2 HTTP/1.1" 200 -
+2025-06-03 17:27:13 [INFO] Request: DELETE /processes/2 — from 127.0.0.1
+2025-06-03 17:27:13 [INFO] Process deleted: 2
+2025-06-03 17:27:13 [INFO] Response: 200 DELETE /processes/2
+2025-06-03 17:27:13 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:13] "DELETE /processes/2 HTTP/1.1" 200 -
+2025-06-03 17:27:13 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:13 [INFO] Fetching process list
+2025-06-03 17:27:13 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:13 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:13] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:13 [INFO] Request: OPTIONS /processes/4 — from 127.0.0.1
+2025-06-03 17:27:13 [INFO] Response: 200 OPTIONS /processes/4
+2025-06-03 17:27:13 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:13] "OPTIONS /processes/4 HTTP/1.1" 200 -
+2025-06-03 17:27:13 [INFO] Request: DELETE /processes/4 — from 127.0.0.1
+2025-06-03 17:27:13 [INFO] Process deleted: 4
+2025-06-03 17:27:13 [INFO] Response: 200 DELETE /processes/4
+2025-06-03 17:27:13 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:13] "DELETE /processes/4 HTTP/1.1" 200 -
+2025-06-03 17:27:13 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:13 [INFO] Fetching process list
+2025-06-03 17:27:13 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:13 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:13] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:14 [INFO] Request: OPTIONS /processes/5 — from 127.0.0.1
+2025-06-03 17:27:14 [INFO] Response: 200 OPTIONS /processes/5
+2025-06-03 17:27:14 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:14] "OPTIONS /processes/5 HTTP/1.1" 200 -
+2025-06-03 17:27:14 [INFO] Request: DELETE /processes/5 — from 127.0.0.1
+2025-06-03 17:27:14 [INFO] Process deleted: 5
+2025-06-03 17:27:14 [INFO] Response: 200 DELETE /processes/5
+2025-06-03 17:27:14 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:14] "DELETE /processes/5 HTTP/1.1" 200 -
+2025-06-03 17:27:14 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:14 [INFO] Fetching process list
+2025-06-03 17:27:14 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:14 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:14] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:14 [INFO] Request: OPTIONS /processes/6 — from 127.0.0.1
+2025-06-03 17:27:14 [INFO] Response: 200 OPTIONS /processes/6
+2025-06-03 17:27:14 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:14] "OPTIONS /processes/6 HTTP/1.1" 200 -
+2025-06-03 17:27:14 [INFO] Request: DELETE /processes/6 — from 127.0.0.1
+2025-06-03 17:27:14 [INFO] Process deleted: 6
+2025-06-03 17:27:14 [INFO] Response: 200 DELETE /processes/6
+2025-06-03 17:27:14 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:14] "DELETE /processes/6 HTTP/1.1" 200 -
+2025-06-03 17:27:14 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:14 [INFO] Fetching process list
+2025-06-03 17:27:14 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:14 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:14] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:15 [INFO] Request: OPTIONS /processes/7 — from 127.0.0.1
+2025-06-03 17:27:15 [INFO] Response: 200 OPTIONS /processes/7
+2025-06-03 17:27:15 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:15] "OPTIONS /processes/7 HTTP/1.1" 200 -
+2025-06-03 17:27:15 [INFO] Request: DELETE /processes/7 — from 127.0.0.1
+2025-06-03 17:27:15 [INFO] Process deleted: 7
+2025-06-03 17:27:15 [INFO] Response: 200 DELETE /processes/7
+2025-06-03 17:27:15 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:15] "DELETE /processes/7 HTTP/1.1" 200 -
+2025-06-03 17:27:15 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:15 [INFO] Fetching process list
+2025-06-03 17:27:15 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:15 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:15] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:15 [INFO] Request: OPTIONS /processes/8 — from 127.0.0.1
+2025-06-03 17:27:15 [INFO] Response: 200 OPTIONS /processes/8
+2025-06-03 17:27:15 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:15] "OPTIONS /processes/8 HTTP/1.1" 200 -
+2025-06-03 17:27:15 [INFO] Request: DELETE /processes/8 — from 127.0.0.1
+2025-06-03 17:27:15 [INFO] Process deleted: 8
+2025-06-03 17:27:15 [INFO] Response: 200 DELETE /processes/8
+2025-06-03 17:27:15 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:15] "DELETE /processes/8 HTTP/1.1" 200 -
+2025-06-03 17:27:15 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:15 [INFO] Fetching process list
+2025-06-03 17:27:15 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:15 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:15] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:16 [INFO] Request: OPTIONS /processes/9 — from 127.0.0.1
+2025-06-03 17:27:16 [INFO] Response: 200 OPTIONS /processes/9
+2025-06-03 17:27:16 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:16] "OPTIONS /processes/9 HTTP/1.1" 200 -
+2025-06-03 17:27:16 [INFO] Request: DELETE /processes/9 — from 127.0.0.1
+2025-06-03 17:27:16 [INFO] Process deleted: 9
+2025-06-03 17:27:16 [INFO] Response: 200 DELETE /processes/9
+2025-06-03 17:27:16 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:16] "DELETE /processes/9 HTTP/1.1" 200 -
+2025-06-03 17:27:16 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:16 [INFO] Fetching process list
+2025-06-03 17:27:16 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:16 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:16] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:16 [INFO] Request: OPTIONS /processes/10 — from 127.0.0.1
+2025-06-03 17:27:16 [INFO] Response: 200 OPTIONS /processes/10
+2025-06-03 17:27:16 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:16] "OPTIONS /processes/10 HTTP/1.1" 200 -
+2025-06-03 17:27:16 [INFO] Request: DELETE /processes/10 — from 127.0.0.1
+2025-06-03 17:27:16 [INFO] Process deleted: 10
+2025-06-03 17:27:16 [INFO] Response: 200 DELETE /processes/10
+2025-06-03 17:27:16 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:16] "DELETE /processes/10 HTTP/1.1" 200 -
+2025-06-03 17:27:16 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:16 [INFO] Fetching process list
+2025-06-03 17:27:16 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:16 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:16] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:17 [INFO] Request: OPTIONS /processes/11 — from 127.0.0.1
+2025-06-03 17:27:17 [INFO] Response: 200 OPTIONS /processes/11
+2025-06-03 17:27:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:17] "OPTIONS /processes/11 HTTP/1.1" 200 -
+2025-06-03 17:27:17 [INFO] Request: DELETE /processes/11 — from 127.0.0.1
+2025-06-03 17:27:17 [INFO] Process deleted: 11
+2025-06-03 17:27:17 [INFO] Response: 200 DELETE /processes/11
+2025-06-03 17:27:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:17] "DELETE /processes/11 HTTP/1.1" 200 -
+2025-06-03 17:27:17 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:17 [INFO] Fetching process list
+2025-06-03 17:27:17 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:17 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:17] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
+2025-06-03 17:27:18 [INFO] Request: OPTIONS /processes/12 — from 127.0.0.1
+2025-06-03 17:27:18 [INFO] Response: 200 OPTIONS /processes/12
+2025-06-03 17:27:18 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:18] "OPTIONS /processes/12 HTTP/1.1" 200 -
+2025-06-03 17:27:18 [INFO] Request: DELETE /processes/12 — from 127.0.0.1
+2025-06-03 17:27:18 [INFO] Process deleted: 12
+2025-06-03 17:27:18 [INFO] Response: 200 DELETE /processes/12
+2025-06-03 17:27:18 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:18] "DELETE /processes/12 HTTP/1.1" 200 -
+2025-06-03 17:27:18 [INFO] Request: GET /processes — from 127.0.0.1
+2025-06-03 17:27:18 [INFO] Fetching process list
+2025-06-03 17:27:18 [INFO] Response: 200 GET /processes
+2025-06-03 17:27:18 [INFO] 127.0.0.1 - - [03/Jun/2025 17:27:18] "GET /processes?page=1&per_page=5 HTTP/1.1" 200 -
